@@ -43,3 +43,5 @@
 ### :fire: My stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=septober92&theme=github-dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=septober92&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)

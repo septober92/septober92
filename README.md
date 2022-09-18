@@ -21,7 +21,7 @@
 </div>
 
 
-✌🏼 About me :
+### ✌🏼 About me :
 
 - 👨🏼‍🏫 I'm a professional English teacher
 - 👨🏼‍💻 I'm currently learning advanced CSS & SCSS
